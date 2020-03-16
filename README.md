@@ -7,3 +7,6 @@ To use it, simply go (once downloaded) to the folder with a terminal and run the
 $ g++ -std=c++11 main.cpp aux.cpp
 $ ./a.out
 ```
+# Creators
+* [@SamuelePignone](https://github.com/SamuelePignone)
+* [@Peek-Ink](https://github.com/Peek-Ink)
